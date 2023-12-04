@@ -133,7 +133,7 @@ const Post = () => {
           </div>
           <br />
           <div>
-            <label>Vromashina raqami</label>
+            <label>mashina raqami</label>
             <br />
             <InputMask
               // type="text"
